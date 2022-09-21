@@ -1,0 +1,17 @@
+curl 'https://thuocsi.vn/_next/data/Ux5fRpHxLtG7y7iDJ_fzz/products.json?q=medoral&searchType=1' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: _gcl_au=1.1.1229230991.1658398725; _gid=GA1.2.602504671.1658398725; isShowRequestModal=true; ts_auth_remember_me=false; _gat_gtag_UA_138688062_1=1; _gat_UA-138688062-1=1; ts_auth_access_token_v2=Q1VTVE9NRVIvMDc4NDY3MjY3ODpubFE5YlVxQWh5SFlMczhlaFNoV01seUNLRjJiYnRjWTVWR3NaSFFOVTVTcnBNeGk=; ts_auth_access_token_v2=Q1VTVE9NRVIvMDc4NDY3MjY3ODpubFE5YlVxQWh5SFlMczhlaFNoV01seUNLRjJiYnRjWTVWR3NaSFFOVTVTcnBNeGk=; _ga=GA1.2.2135532029.1658398725; _ga_EG8G1X69K5=GS1.1.1658476213.2.1.1658480176.0' \
+  -H 'Referer: https://thuocsi.vn/products/loading?q=medoral&searchType=1' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36' \
+  -H 'baggage: sentry-environment=prd,sentry-release=Ux5fRpHxLtG7y7iDJ_fzz,sentry-transaction=%2Fproducts%2Floading,sentry-public_key=c59bdcde61d5452297548f03965a2a10,sentry-trace_id=60022023b5094f0a84582f0c84a16441,sentry-sample_rate=1' \
+  -H 'sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  -H 'sentry-trace: 60022023b5094f0a84582f0c84a16441-a76f4273db0cd368-1' \
+  -H 'x-nextjs-data: 1' \
+  --compressed

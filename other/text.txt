@@ -1,0 +1,20 @@
+import pyodbc
+import pandas as pd
+server='115.165.164.234'
+driver='SQL Server'
+db1 = 'PhaNam_eSales_PRO'
+tcon = 'no'
+uname='duyvq'
+pword='123VanQuangDuy'
+cnxn = pyodbc.connect(driver='{ODBC Driver 17 for SQL Server}', 
+                      host=server, database=db1, trusted_connection=tcon,
+                      user=uname, password=pword)
+cursor = cnxn.cursor()
+#Sample select query
+cursor.execute("SELECT @@version;") 
+row = cursor.fetchone() 
+while row: 
+    print(row[0])
+    row = cursor.fetchone()
+
+SELECT * FROM [dbo].[AP_Balances]

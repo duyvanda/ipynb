@@ -1,0 +1,23 @@
+1AD
+2AC
+3B
+4C
+5CD
+6BD
+7A
+8C
+9BD
+10AD
+11b
+12c
+
+1bc
+2bc
+3A(+1)
+4C(-2)
+5C
+6D (midlevel -1)
+7B
+8A
+9CD
+10AD

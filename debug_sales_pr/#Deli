@@ -1,0 +1,38 @@
+SELECT DISTINCT
+a.BranchID,
+a.Status,
+a.OrderNbr,
+ShipDate = ISNULL(c.ShipDate, a.Crtd_DateTime)
+FROM OM_Delivery a WITH (NOLOCK)
+INNER JOIN
+(
+    SELECT
+    de.BranchID,
+    de.BatNbr,
+    de.OrderNbr,
+    Sequence = MAX(Sequence)
+    FROM dbo.OM_Delivery de
+    GROUP BY 
+    de.BranchID,
+    de.BatNbr,
+    de.OrderNbr
+) b ON
+b.BatNbr = a.BatNbr AND 
+b.BranchID = a.BranchID AND 
+b.Sequence = a.Sequence AND 
+b.OrderNbr = a.OrderNbr
+LEFT JOIN
+(
+    SELECT de.BranchID,
+    de.BatNbr,
+    de.OrderNbr,
+    ShipDate = MAX(ShipDate)
+    FROM dbo.OM_DeliHistory de
+    GROUP BY
+    de.BranchID,
+    de.BatNbr,
+    de.OrderNbr
+) c ON
+c.BatNbr = a.BatNbr AND
+c.BranchID = a.BranchID AND
+c.OrderNbr = a.OrderNbr;
