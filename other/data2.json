@@ -1,0 +1,16 @@
+{
+	"payload": {
+		"actions": [
+			{
+				"cmd": "append",
+				"target": "static_templates",
+				"html": "",
+				"replaceifexists": true
+			}
+		],
+		"ajax_response_token": "-muF_O3DfVbfNVc_JWtW7Wf_rBL_NPz3",
+		"contentless_response": false,
+		"hsrp": { "hblp": { "consistency": { "rev": 1005982794 } } },
+		"payload": { "count": 2 }
+	}
+}

@@ -1,0 +1,254 @@
+[
+    {
+        "MaTinhThanh": "10",
+        "TenTinhThanh": "Hà Nội"
+    },
+    {
+        "MaTinhThanh": "16",
+        "TenTinhThanh": "Hưng Yên"
+    },
+    {
+        "MaTinhThanh": "17",
+        "TenTinhThanh": "Hải Dương"
+    },
+    {
+        "MaTinhThanh": "18",
+        "TenTinhThanh": "Hải Phòng"
+    },
+    {
+        "MaTinhThanh": "20",
+        "TenTinhThanh": "Quảng Ninh"
+    },
+    {
+        "MaTinhThanh": "22",
+        "TenTinhThanh": "Bắc Ninh"
+    },
+    {
+        "MaTinhThanh": "23",
+        "TenTinhThanh": "Bắc Giang"
+    },
+    {
+        "MaTinhThanh": "24",
+        "TenTinhThanh": "Lạng Sơn"
+    },
+    {
+        "MaTinhThanh": "25",
+        "TenTinhThanh": "Thái Nguyên"
+    },
+    {
+        "MaTinhThanh": "26",
+        "TenTinhThanh": "Bắc Kạn"
+    },
+    {
+        "MaTinhThanh": "27",
+        "TenTinhThanh": "Cao Bằng"
+    },
+    {
+        "MaTinhThanh": "28",
+        "TenTinhThanh": "Vĩnh Phúc"
+    },
+    {
+        "MaTinhThanh": "29",
+        "TenTinhThanh": "Phú Thọ"
+    },
+    {
+        "MaTinhThanh": "30",
+        "TenTinhThanh": "Tuyên Quang"
+    },
+    {
+        "MaTinhThanh": "31",
+        "TenTinhThanh": "Hà Giang"
+    },
+    {
+        "MaTinhThanh": "32",
+        "TenTinhThanh": "Yên Bái"
+    },
+    {
+        "MaTinhThanh": "33",
+        "TenTinhThanh": "Lào Cai"
+    },
+    {
+        "MaTinhThanh": "35",
+        "TenTinhThanh": "Hoà Bình"
+    },
+    {
+        "MaTinhThanh": "36",
+        "TenTinhThanh": "Sơn La"
+    },
+    {
+        "MaTinhThanh": "38",
+        "TenTinhThanh": "Điện Biên"
+    },
+    {
+        "MaTinhThanh": "39",
+        "TenTinhThanh": "Lai Châu"
+    },
+    {
+        "MaTinhThanh": "40",
+        "TenTinhThanh": "Hà Nam"
+    },
+    {
+        "MaTinhThanh": "41",
+        "TenTinhThanh": "Thái Bình"
+    },
+    {
+        "MaTinhThanh": "42",
+        "TenTinhThanh": "Nam Định"
+    },
+    {
+        "MaTinhThanh": "43",
+        "TenTinhThanh": "Ninh Bình"
+    },
+    {
+        "MaTinhThanh": "44",
+        "TenTinhThanh": "Thanh Hoá"
+    },
+    {
+        "MaTinhThanh": "46",
+        "TenTinhThanh": "Nghệ An"
+    },
+    {
+        "MaTinhThanh": "48",
+        "TenTinhThanh": "Hà Tĩnh"
+    },
+    {
+        "MaTinhThanh": "51",
+        "TenTinhThanh": "Quảng Bình"
+    },
+    {
+        "MaTinhThanh": "52",
+        "TenTinhThanh": "Quảng Trị"
+    },
+    {
+        "MaTinhThanh": "53",
+        "TenTinhThanh": "Thừa Thiên Huế"
+    },
+    {
+        "MaTinhThanh": "55",
+        "TenTinhThanh": "Đà Nẵng"
+    },
+    {
+        "MaTinhThanh": "56",
+        "TenTinhThanh": "Quảng Nam"
+    },
+    {
+        "MaTinhThanh": "57",
+        "TenTinhThanh": "Quảng Ngãi"
+    },
+    {
+        "MaTinhThanh": "58",
+        "TenTinhThanh": "Kon Tum"
+    },
+    {
+        "MaTinhThanh": "59",
+        "TenTinhThanh": "Bình Định"
+    },
+    {
+        "MaTinhThanh": "60",
+        "TenTinhThanh": "Gia Lai"
+    },
+    {
+        "MaTinhThanh": "62",
+        "TenTinhThanh": "Phú Yên"
+    },
+    {
+        "MaTinhThanh": "63",
+        "TenTinhThanh": "Đắk Lăk"
+    },
+    {
+        "MaTinhThanh": "64",
+        "TenTinhThanh": "Đắk Nông"
+    },
+    {
+        "MaTinhThanh": "65",
+        "TenTinhThanh": "Khánh Hoà"
+    },
+    {
+        "MaTinhThanh": "66",
+        "TenTinhThanh": "Ninh Thuận"
+    },
+    {
+        "MaTinhThanh": "67",
+        "TenTinhThanh": "Lâm Đồng"
+    },
+    {
+        "MaTinhThanh": "70",
+        "TenTinhThanh": "Hồ Chí Minh"
+    },
+    {
+        "MaTinhThanh": "79",
+        "TenTinhThanh": "Bà Rịa Vũng Tàu"
+    },
+    {
+        "MaTinhThanh": "80",
+        "TenTinhThanh": "Bình Thuận"
+    },
+    {
+        "MaTinhThanh": "81",
+        "TenTinhThanh": "Đồng Nai"
+    },
+    {
+        "MaTinhThanh": "82",
+        "TenTinhThanh": "Bình Dương"
+    },
+    {
+        "MaTinhThanh": "83",
+        "TenTinhThanh": "Bình Phước"
+    },
+    {
+        "MaTinhThanh": "84",
+        "TenTinhThanh": "Tây Ninh"
+    },
+    {
+        "MaTinhThanh": "85",
+        "TenTinhThanh": "Long An"
+    },
+    {
+        "MaTinhThanh": "86",
+        "TenTinhThanh": "Tiền Giang"
+    },
+    {
+        "MaTinhThanh": "87",
+        "TenTinhThanh": "Đồng Tháp"
+    },
+    {
+        "MaTinhThanh": "88",
+        "TenTinhThanh": "An Giang"
+    },
+    {
+        "MaTinhThanh": "89",
+        "TenTinhThanh": "Vĩnh Long"
+    },
+    {
+        "MaTinhThanh": "90",
+        "TenTinhThanh": "Cần Thơ"
+    },
+    {
+        "MaTinhThanh": "91",
+        "TenTinhThanh": "Hậu Giang"
+    },
+    {
+        "MaTinhThanh": "92",
+        "TenTinhThanh": "Kiên Giang"
+    },
+    {
+        "MaTinhThanh": "93",
+        "TenTinhThanh": "Bến Tre"
+    },
+    {
+        "MaTinhThanh": "94",
+        "TenTinhThanh": "Trà Vinh"
+    },
+    {
+        "MaTinhThanh": "95",
+        "TenTinhThanh": "Sóc Trăng"
+    },
+    {
+        "MaTinhThanh": "96",
+        "TenTinhThanh": "Bạc Liêu"
+    },
+    {
+        "MaTinhThanh": "97",
+        "TenTinhThanh": "Cà Mau"
+    }
+]
