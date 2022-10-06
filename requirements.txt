@@ -184,3 +184,9 @@ virtualenv==20.7.2
 Werkzeug==1.0.1
 WTForms==2.3.3
 zipp==3.5.0
+Django==3.2
+django-cors-headers==3.7.0
+djangorestframework==3.11.0
+djangorestframework-simplejwt==5.2.0
+Pillow==9.2.0
+firebase-admin==5.4.0
