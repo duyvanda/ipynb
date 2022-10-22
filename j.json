@@ -1,0 +1,31 @@
+[
+    {
+        "manv": "MR2523",
+        "key": "123456A1",
+        "phanloai": "lvl1",
+        "report": [
+            {
+                "report": "A1",
+                "names": "Sales",
+                "w": 1210
+            },
+            {
+                "report": "A2",
+                "names": "CongNo",
+                "w": 1210
+            }
+        ]
+    },
+    {
+        "manv": "MR2525",
+        "key": "123456A1",
+        "phanloai": "lvl1",
+        "report": [
+            {
+                "report": "A2",
+                "names": "CongNo",
+                "w": 1210
+            }
+        ]
+    }
+]
